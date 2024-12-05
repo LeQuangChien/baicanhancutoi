@@ -17,15 +17,9 @@ document.body.insertAdjacentHTML(
   <header>
     <div class="trang1">
       <div id="div1">
-        <h1><span class="chutrang">HOMESTAY</span> TK-KHOI</h1>
+        <h1><span class="chutrang">HOMESTAY</span> Đà Lạt</h1>
       </div>
       <nav>
-        <ul>
-          <li class="hinhvietnam">
-            <img src="../RES/vietnam.PNG" alt="Vietnam Flag" width="40" height="40">
-          </li>
-        </ul>
-      </nav>
     </div>
   </header>
     `

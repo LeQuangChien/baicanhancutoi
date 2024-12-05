@@ -108,22 +108,6 @@ document.body.insertAdjacentHTML(
 </footer>
 `
 );
-document.body.insertAdjacentHTML(
-  "beforeend",
-  `
-  <section id="main_layout">
-    <div class="div2">
-      <table border="1" class="khung">
-        <tr>
-          <th onclick="handleFirstSelection()">Lựa chọn hàng đầu của chúng tôi</th>
-          <th onclick="handleSortBaseOnPrice()">Ưu tiên giá thấp nhất</th>
-          <th onclick="handleSortBaseOnRate()">Xếp hạng sao</th>
-        </tr>
-      </table>
-    </div>
-  </section>
-  `
-);
 
 // JavaScript functions for interactions
 export function handleApplyRating(rating) {
@@ -141,5 +125,3 @@ export function handleSortBaseOnPrice() {
 export function handleSortBaseOnRate() {
   alert("Sorting by star rating.");
 }
-
-
