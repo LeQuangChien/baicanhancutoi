@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/baicahan/static/css/main.b69d82a0.css",
-    "main.js": "/baicahan/static/js/main.7c46ce70.js",
+    "main.js": "/baicahan/static/js/main.bcce0194.js",
     "index.html": "/baicahan/index.html",
     "main.b69d82a0.css.map": "/baicahan/static/css/main.b69d82a0.css.map",
-    "main.7c46ce70.js.map": "/baicahan/static/js/main.7c46ce70.js.map"
+    "main.bcce0194.js.map": "/baicahan/static/js/main.bcce0194.js.map"
   },
   "entrypoints": [
     "static/css/main.b69d82a0.css",
-    "static/js/main.7c46ce70.js"
+    "static/js/main.bcce0194.js"
   ]
 }
